@@ -20,7 +20,7 @@
     position: relative;
 }
 .introText{
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 300;
 }
 .introName{
@@ -42,7 +42,7 @@
 }
 .introTitleItem{
     height: 50px;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     color: #59b256;
     display: flex;
@@ -68,4 +68,27 @@
     position: absolute;
     top: 0;
     right: 0;
+}
+.introDescrip{
+    font-size: 16px;
+}
+.bienvenidos{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 480px) {
+    .intro{
+        flex-direction: column;
+    }
+    .introLeftWrapper{
+        padding: 10px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 100%;
+    }
+    .introDescrip{
+        display: none;
+    }
 }

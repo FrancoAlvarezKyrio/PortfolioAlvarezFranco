@@ -67,3 +67,35 @@ button{
     font-weight: 500;
     cursor: pointer;
 }
+
+@media screen and (max-width: 480px) {
+    .contactWrapper{
+        flex-direction: column;
+        padding: 0px 50px;
+    }
+    .contactTitle{
+        font-size: 30px;
+    }
+    .contactInfoItem{
+        margin: 20px 0px;
+        width: 100%;
+        font-size: 14px;
+    }
+    .contactDescrip{
+        display: none;
+    }
+    form{
+        margin-top: 0px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    input{
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-left: 0;
+    }
+    button{
+        margin-top: 10px;
+    }
+}

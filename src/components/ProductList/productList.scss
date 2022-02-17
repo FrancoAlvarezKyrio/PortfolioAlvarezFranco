@@ -21,3 +21,19 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+@media screen and (max-width:480px){
+    .productList{
+        padding: 10px;
+    }
+    .productListTexts{
+        width: 100%;
+    }
+    .productListDescrip{
+        display: none;
+    }
+    .productListTitle{
+        font-size: 40px;
+        font-weight: 600;
+        margin-top: 400px;
+    }
+} 

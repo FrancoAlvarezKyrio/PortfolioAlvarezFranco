@@ -1,7 +1,11 @@
 import React from 'react'
 import "./about.scss"
 import ImageAbout from "../../images/imageBlackAndWhite.jpg"
-import ImageAward from "../../images/AwardImage.jpg"
+import ImageHtml from "../../images/htmlPng.png"
+import ImageCss from "../../images/cssPng.png"
+import ImageJS from "../../images/javaScriptPng.png"
+import ImageReact from "../../images/reactJSPng.png"
+import ImageSass from "../../images/sassPng.png"
 
 const About = () => {
   return (
@@ -28,11 +32,17 @@ const About = () => {
                     Kyrio Alvarez Urrutia - 18 meses - 10/08/21 - 17:47hrs
             </p>
             <div className='aboutAward'>
-                <img src={ImageAward} className='aboutAwardImage'/>
-                <div className='awardTexts'>
-                    <h4 className='awardTitle'>Kyrio Alvarez Urrutia </h4>
-                    <p className='awardDescrip'>Kyrio Alvarez Urrutia - 18 meses - 10/08/21 - 17:47hrs</p>
-                </div>
+                <img src={ImageHtml} className='aboutAwardImage'/>
+                <img src={ImageCss} className='aboutAwardImage'/>
+                <img src={ImageSass} className='aboutAwardImage'/>
+                <img src={ImageJS} className='aboutAwardImage'/>
+                <img src={ImageReact} className='aboutAwardImage'/>
+                <img src={ImageCss} className='aboutAwardImage'/>
+                <img src={ImageHtml} className='aboutAwardImage'/>
+                <img src={ImageCss} className='aboutAwardImage'/>
+                <img src={ImageHtml} className='aboutAwardImage'/>
+                <img src={ImageCss} className='aboutAwardImage'/>
+
             </div>
         </div>
     </div>

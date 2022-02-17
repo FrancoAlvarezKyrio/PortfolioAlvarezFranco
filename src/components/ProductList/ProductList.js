@@ -7,7 +7,7 @@ const ProductList = () => {
   return (
     <div className='productList'>
         <div className='productListTexts'>
-            <h1 className='productListTitle'>Kyrio Alvarez Urrutia </h1>
+            <h1 className='productListTitle'>Mis proyectos</h1>
             <p className='productListDescrip'>
                     Kyrio Alvarez Urrutia - 18 meses - 10/08/21 - 17:47hrs
                     Kyrio Alvarez Urrutia - 18 meses - 10/08/21 - 17:47hrs
