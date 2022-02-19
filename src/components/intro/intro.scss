@@ -90,5 +90,12 @@
     }
     .introDescrip{
         display: none;
+        margin: 0px;
+    }
+    .introImage{
+        width: 330px;
+        height: 100%;
+        object-fit: cover;
+        position: absolute;
     }
 }

@@ -1,4 +1,5 @@
 import myRealityImage from "./images/myRealityProyect.png"
+import ufcImage from "./images/ufcSiteJS.png"
 export const products = [
     {
       id: 1,
@@ -7,8 +8,8 @@ export const products = [
     },
     {
       id: 2,
-      img: "https://i.pinimg.com/originals/26/58/55/265855fd3b324e682eba447718d0d6bb.png",
-      link: "https://myrealitygrowshop.netlify.app/",
+      img: `${ufcImage}`,
+      link: "https://francoalvarezkyrio.github.io/repoAlvarezFrancoJS/",
     },
     {
       id: 3,

@@ -1,6 +1,6 @@
 import React from 'react'
 import "./intro.scss"
-import ImageIntro from "../../images/ImagenIntro.png"
+import ImageIntro from "../../images/firstImage.png"
 
 const Intro = () => {
   return (
@@ -19,18 +19,18 @@ const Intro = () => {
                     </div>
                 </div>
                             <p className='introDescrip'>
-                            Soy desarrollador web Front end especializado en ReactJs con conocimientos en Diseño UX/UI y administración.<br/>
+                            Soy desarrollador web Frontend especializado en ReactJs con conocimientos en Diseño UX/UI.<br/>
                             En este portfolio podrán conocer más a cerca de mi, visualizar mis proyectos personales y entrar en contacto conmigo.<br/><br/>
-                            <span className='bienvenidos'>Bienvenidos!</span>
+                            <span className='bienvenidos'>Bienvenidos.</span>
                             </p>
-           </div>
-                  
+           </div>     
         </div>
 
         <div className='introRight'>
             <div className='introClipPath'></div>
             <img src={ImageIntro} alt='' className='introImage' />
         </div>
+
     </div>
   )
 }

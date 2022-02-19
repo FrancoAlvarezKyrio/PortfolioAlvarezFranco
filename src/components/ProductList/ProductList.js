@@ -8,11 +8,6 @@ const ProductList = () => {
     <div className='productList'>
         <div className='productListTexts'>
             <h1 className='productListTitle'>Mis proyectos</h1>
-            <p className='productListDescrip'>
-                    Kyrio Alvarez Urrutia - 18 meses - 10/08/21 - 17:47hrs
-                    Kyrio Alvarez Urrutia - 18 meses - 10/08/21 - 17:47hrs
-                    Kyrio Alvarez Urrutia - 18 meses - 10/08/21 - 17:47hrs
-            </p>
         </div>
         <div className='pl-List'>
           {products.map((item) => 
