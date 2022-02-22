@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/84d6deb7-5425-4a47-8306-d45198f1af0c/deploy-status)](https://app.netlify.com/sites/portfoalvarezreact/deploys)# ***My Portfolio Franco Alvarez***
+Este ese un proyecto creado para poder compartir un poco de mí, mis proyectos, mis habilidades, mis conocimientos y mis metas.
+Espero que sea de agrado para quien este leyeno esto y cualquier comentario y/o consejo que puedan darme será bien recibido para poder seguir aprendiendo y mejorando.
+## ***Tecnologías usadas***
+* El proyecto fue inicializado con *Create-React-App* y visualizado inicializando el servidor a través del comando ```npm start```
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para sus respectivos estilos hacemos uso de Bootstrap para los contenedores y/o componentes, Font-awesome para las letras y Box model con **Css** y **Flexbox** para el correcto posicionamiento y estilos de los componentes, también haciendo uso de **Sass** como compilador para poder trabajar con una sintáxis más amigable, entre otros beneficios.
 
-## Available Scripts
+* Mediante el uso del lenguaje **JavaScript** creamos interacción en el sitio con el usuario y lo volvemos más dinámico, haciendo uso de estados los cuales modificamos para que generen una acción o reaccionen para nuestra conveniencia, nos permite filtrar por categorías, mostrar su respectivo contador de resta y suma en cada producto individualmente y obtener un total de todos los productos seleccionados. 
 
-In the project directory, you can run:
+* **ReactJs** nos permitió dividir nuestro proyecto y trabajar mediante componentes que luego se irían complementando el uno con el otro, cada componente fue creado de manera paralela con su .scss en su respectiva carpeta, también nos permitió instalar extensiones que nos harían nuestro trabajo mas fluído como *React-route*, *React-Router-Dom* para un mejor manejo de rutas y darle al sitio una estructura de *SPA* ( Single page apication),  haciendo uso de *Context* y creando su provider para poder abarcar y utilizar todas las funciones y componentes desde el lugar en que deseemos, a través de *React-Bootstrap* logramos acceder a iconos y estilos fascinantes que le dieron otro aspecto a nuestro proyecto.
 
-### `npm start`
+* A través de **Git** y su respectiva terminal pude instalar uno por uno todos los elementos que utilicé para este proyecto y a través de **GitHub** pude documentar, guardar y subir todos los cambios que iba realizando. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### ***Comando utilizados***
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ```npm i sass```
+ ```npm i bootstrap```
+ ```npm i react-bootstrap```
+ ```npm i react-route```
+ ```npm i react-router-dom```
+ ```npm i font-awesome```
 
-### `npm test`
+ ```git log```
+ ```git status```
+ ```git add ```
+ ```git commit -m ""```
+ ```git push```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# ***Link al sitio web***
+ [PortfolioAlvarezFranco] https://portfoalvarezreact.netlify.app/
