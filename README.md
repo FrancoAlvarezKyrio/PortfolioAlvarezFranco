@@ -1,11 +1,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/84d6deb7-5425-4a47-8306-d45198f1af0c/deploy-status)](https://app.netlify.com/sites/portfoalvarezreact/deploys)
-# ***My Portfolio Franco Alvarez***
+# ***Portfolio Franco Alvarez***
 Este ese un proyecto creado para poder compartir un poco de mí, mis proyectos, mis habilidades, mis conocimientos y mis metas.
 Espero que sea de agrado para quien este leyeno esto y cualquier comentario y/o consejo que puedan darme será bien recibido para poder seguir aprendiendo y mejorando.
 ## ***Tecnologías usadas***
 * El proyecto fue inicializado con *Create-React-App* y visualizado inicializando el servidor a través del comando ```npm start```
 
-Para sus respectivos estilos hacemos uso de Bootstrap para los contenedores y/o componentes, Font-awesome para las letras y Box model con **Css** y **Flexbox** para el correcto posicionamiento y estilos de los componentes, también haciendo uso de **Sass** como compilador para poder trabajar con una sintáxis más amigable, entre otros beneficios.
+* Para sus respectivos estilos hacemos uso de Bootstrap para los contenedores y/o componentes, Font-awesome para las letras y Box model con **Css** y **Flexbox** para el correcto posicionamiento y estilos de los componentes, también haciendo uso de **Sass** como compilador para poder trabajar con una sintáxis más amigable, entre otros beneficios.
 
 * Mediante el uso del lenguaje **JavaScript** creamos interacción en el sitio con el usuario y lo volvemos más dinámico, haciendo uso de estados los cuales modificamos para que generen una acción o reaccionen para nuestra conveniencia, nos permite filtrar por categorías, mostrar su respectivo contador de resta y suma en cada producto individualmente y obtener un total de todos los productos seleccionados. 
 
