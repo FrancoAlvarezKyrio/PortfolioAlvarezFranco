@@ -1,5 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/84d6deb7-5425-4a47-8306-d45198f1af0c/deploy-status)](https://app.netlify.com/sites/portfoalvarezreact/deploys)
-# ***Portfolio Franco Alvarez***
+# ***Portflio Franco Alvarez***
 Este ese un proyecto creado para poder compartir un poco de mí, mis proyectos, mis habilidades, mis conocimientos y mis metas.
 Espero que sea de agrado para quien este leyeno esto y cualquier comentario y/o consejo que puedan darme será bien recibido para poder seguir aprendiendo y mejorando.
 ## ***Tecnologías usadas***
